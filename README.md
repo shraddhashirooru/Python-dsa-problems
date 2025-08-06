@@ -1,2 +1,2 @@
 # Python-dsa-problems
-It has all dsa problems accroding specific topics
+My dsa questions and python code for learning.
